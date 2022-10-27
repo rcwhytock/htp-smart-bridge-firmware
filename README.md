@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/558434652.svg)](https://zenodo.org/badge/latestdoi/558434652)
+
 # Hack The Planet Smart Bridge Firmware
 C Firmware running on the Smart Bridge micro controller
 
